@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UI UX**
 
-- 🌱 I’m currently learning **JAWA SCRIPT ,REACT**
+- 🌱 I’m currently learning **JAVA SCRIPT ,REACT**
 
 - 📫 How to reach me **devanshusain7878@gmail.com**
 
